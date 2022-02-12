@@ -21,5 +21,5 @@ Qt Quick + ffmpeg = PowPlayer
 PS: 自行修改main.qml的videoUrl属性
 
 2022/2/12
-仅能播放音视频，无ui
-实测在Qt5.9.9、Qt5.13.x均能运行
+- 仅能播放音视频，无ui
+- 实测在Qt5.9.9、Qt5.13.x均能运行
